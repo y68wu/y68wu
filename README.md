@@ -10,6 +10,7 @@ Computer Science student at the University of Waterloo, interested in software e
 - [WebGL Experiments](https://github.com/y68wu/cs398-webgl) — procedural shaders and browser-based graphics exercises.
 - [Numerical Methods](https://github.com/y68wu/cs370-numerical-methods) — Python and Jupyter implementations of numerical-computing exercises.
 - [Programming Practice](https://github.com/y68wu/programming-practice) — selected data structures and language exercises in C, Java, and Python.
+- [WLP4 Compiler Toolchain](https://github.com/y68wu/cs241-compiler-toolchain) — C++ scanner, parser, type checker, and MIPS code-generation coursework.
 
 ## More coursework
 
