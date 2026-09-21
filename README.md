@@ -11,6 +11,11 @@ Computer Science student at the University of Waterloo, interested in software e
 - [Numerical Methods](https://github.com/y68wu/cs370-numerical-methods) — Python and Jupyter implementations of numerical-computing exercises.
 - [Programming Practice](https://github.com/y68wu/programming-practice) — selected data structures and language exercises in C, Java, and Python.
 
+## More coursework
+
+- [Operating-System Implementation Work](https://github.com/y68wu/cs350-os-implementations) — a focused patch documenting my process, synchronization, and filesystem changes to the CastorOS teaching kernel.
+- [C Programming: Algorithms and Data Structures](https://github.com/y68wu/cs136-c-programming) — completed C exercises covering sequences, strings, sorting, stacks, deques, and hash tables.
+
 ## Technologies
 
 `C` `C++` `Python` `Java` `OpenGL` `WebGL` `CMake` `Git` `Linux`
