@@ -4,7 +4,7 @@ Computer Science student at the University of Waterloo, interested in software e
 
 ## Featured projects
 
-- [Real-Time Train Control Kernel](https://github.com/y68wu/cs452-real-time-kernel) — a C-based microkernel and multi-train controller with routing, reservations, CAN transport, and deterministic simulation.
+- [Real-Time Train Control Kernel](https://github.com/y68wu/cs452-real-time-kernel) — a C-based microkernel and multi-train controller with routing, reservations, CAN transport, and deterministic simulation. [Early coursework snapshots](https://github.com/y68wu/cs452-real-time-kernel/tree/historical-coursework) and a [later physical-demo variant](https://github.com/y68wu/cs452-real-time-kernel/tree/remote-physical-demo) are also available.
 - [Grid-Accelerated Sand Simulation](https://github.com/y68wu/cs488-sand-simulation) — an interactive C++/OpenGL particle simulation with spatial hashing, collision handling, settling, and height-field reconstruction.
 - [Quadris](https://github.com/y68wu/cs246-quadris) — an object-oriented C++ block game with text and graphical displays.
 - [WebGL Experiments](https://github.com/y68wu/cs398-webgl) — procedural shaders and browser-based graphics exercises.
