@@ -21,6 +21,8 @@ I'm a Computer Science student at the University of Waterloo. I build systems an
 
 I also worked on [**SpotSeeker**](https://github.com/y68wu/cs346-spotseeker), a Kotlin Multiplatform campus location-guessing game built with a four-person CS346 team. Its reviewed source is archived privately, with full team credit and the original GitLab repository as the contribution record. A [private coursework archive](https://github.com/y68wu/uw-coursework-archive) preserves CS135, CS341, and additional CS370 code; I can grant access for individual review. The CS245 folders inspected so far contain course documents but no code project.
 
+CS488's A0–A3 graphics implementations are preserved separately in a [private coursework repository](https://github.com/y68wu/cs488-coursework); the public sand-simulation repository above is the final project. Private repositories require an invitation before others can view their code.
+
 **Tools:** C, C++, Python, Java, OpenGL, WebGL, CMake, Git, Linux.
 
 [LinkedIn](https://www.linkedin.com/in/uwchriswu/)
