@@ -19,7 +19,7 @@ I'm a Computer Science student at the University of Waterloo. I build systems an
 | Data structures | [CS136 C Programming](https://github.com/y68wu/cs136-c-programming) | Selected C algorithms and data structures |
 | Practice | [Programming Practice](https://github.com/y68wu/programming-practice) | Selected C, Java, and Python exercises |
 
-I also worked on **UW Course Assistant** with a four-person CS346 team, a course-selection and classmate-connection app. Team code is not mirrored here without the other contributors' agreement. My CS135, CS245, and CS341 course folders are not public project repositories: they contain coursework, course-provided material, or individual assignment solutions rather than independent projects. I can discuss my contributions and algorithms with recruiters directly.
+I also worked on [**SpotSeeker**](https://github.com/y68wu/cs346-spotseeker), a Kotlin Multiplatform campus location-guessing game built with a four-person CS346 team. Its reviewed source is archived privately, with full team credit and the original GitLab repository as the contribution record. A [private coursework archive](https://github.com/y68wu/uw-coursework-archive) preserves CS135, CS341, and additional CS370 code; I can grant access for individual review. The CS245 folders inspected so far contain course documents but no code project.
 
 **Tools:** C, C++, Python, Java, OpenGL, WebGL, CMake, Git, Linux.
 
