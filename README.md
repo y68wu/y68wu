@@ -1,9 +1,10 @@
 # Hi, I'm Chris Wu
 
-I'm a Computer Science student at the University of Waterloo. I build systems and graphics software, and I enjoy turning algorithms into working, testable programs.
+I'm a Computer Science student at the University of Waterloo. I build AI, systems, and graphics software, and I enjoy turning algorithms into working, testable programs.
 
 ## Start here
 
+- **AI / full stack:** [CampusAI — Waterloo Course Planning Assistant](https://github.com/y68wu/CampusAI) — React/TypeScript planning prototype with Apollo GraphQL, LangChain-connected MCP tools, cited course sources, and deterministic prerequisite checks.
 - **Systems:** [Real-Time Train Control Kernel](https://github.com/y68wu/cs452-real-time-kernel) — C microkernel and multi-train controller with routing, reservations, CAN communication, and deterministic simulation. The repository also has [historical coursework](https://github.com/y68wu/cs452-real-time-kernel/tree/historical-coursework) and a [physical-demo variant](https://github.com/y68wu/cs452-real-time-kernel/tree/remote-physical-demo).
 - **Graphics:** [Grid-Accelerated Sand Simulation](https://github.com/y68wu/cs488-sand-simulation) — interactive C++/OpenGL particle simulation using spatial hashing, collision handling, settling, and height-field reconstruction.
 - **Compilers:** [WLP4 Compiler Toolchain](https://github.com/y68wu/cs241-compiler-toolchain) — C++ scanner, parser, type checker, and MIPS code generation.
@@ -25,6 +26,6 @@ CS488's A0–A3 graphics implementations are preserved separately in a [private 
 
 Five earlier and experimental CS452 kernel working copies, including one with uncommitted local changes, are preserved in a [private variant archive](https://github.com/y68wu/cs452-variant-archive). The public real-time-kernel repository remains the portfolio entry point.
 
-**Tools:** C, C++, Python, Java, OpenGL, WebGL, CMake, Git, Linux.
+**Tools:** C, C++, TypeScript, Python, Java, React, Node.js, GraphQL, LangChain, MCP, OpenGL, WebGL, Docker, Azure Bicep, CMake, Git, Linux.
 
 [LinkedIn](https://www.linkedin.com/in/uwchriswu/)
